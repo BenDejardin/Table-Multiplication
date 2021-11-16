@@ -151,7 +151,7 @@ L'utilisateur saisi le chiffre 3, le programme devra donc afficher
 
 ## Explication des Components :
 
-Lors de la mission 1 le projet contient 2 components.
+Lors de la mission 2 le projet contient 3 components.
 
 - Component parent : AppComponent
 - Component parent et enfant : Tables-Multiplication
